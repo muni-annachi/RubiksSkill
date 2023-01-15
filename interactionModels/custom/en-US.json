@@ -1,0 +1,60 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "rubik\u0027s trivia",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "IntroIntent",
+          "slots": [],
+          "samples": [
+            "who created this skill",
+            "how to use rubik\u0027s cube",
+            "what is a rubik\u0027s cube"
+          ]
+        },
+        {
+          "name": "BestCubeIntent",
+          "slots": [],
+          "samples": [
+            "what is the best  cube"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "10"
+}
